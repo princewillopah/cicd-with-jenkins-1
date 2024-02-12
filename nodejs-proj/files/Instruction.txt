@@ -1,0 +1,1 @@
+clone the projects: git clone https://github.com/wardviaene/docker-demo.git
